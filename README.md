@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Mihir998">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github">
   </a>
-  <a href="www.linkedin.com/in/mihirraul">
+  <a href="https://www.linkedin.com/in/mihirraul">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin">
   </a>
  <a></a>
