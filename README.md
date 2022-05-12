@@ -42,3 +42,5 @@ I have worked with various programming languages in my curriculum such as **C, J
 I've been practicing <b>Statistics</b>, <b>SQL</b>, <b>Data Visualisation</b>, etc frequently as a daily chunk of life.
 Speaking about roles that I'm specifically interested in are <b>Data Analyst</b> or <b>Data Scientist</b>.<br>
 Just wanted an oppurtunity wherein I can apply my knowledge wherever it is possible.
+
+<b><i><ins>"You can have data without information, but you cannot have information without data." </ins></i></b>
