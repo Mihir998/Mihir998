@@ -44,3 +44,15 @@ Speaking about roles that I'm specifically interested in are <b>Data Analyst</b>
 Just wanted an oppurtunity wherein I can apply my knowledge wherever it is possible.
 
 <b><i><ins>"You can have data without information, but you cannot have information without data." </ins></i></b>
+
+<p align="center">
+<a href="https://github.com/Mihir998">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihir998&show_icons=true&theme=radical" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Mihir998">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir998&theme=radical&hide=blade&card_width=445&layout=compact" />
+</a>
+</p>
