@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Mihir998">
-    <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github">
+    <img src="https://img.shields.io/github/followers/Mihir998?color=000000&label=GitHub&logo=github&logoColor=ffffff&style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/mihirraul">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-500+-blue?style=for-the-badge&logo=Linkedin">
   </a>
- <a></a>
+  <a href="https://www.instagram.com/_mihir_raul_/">
+    <img src="https://img.shields.io/badge/Instagram-300+-pink?style=for-the-badge&logo=Instagram">
+  </a>
 </p>
 
 <h2><img src="https://media.giphy.com/media/ybSmYMoXQLXVivivaK/giphy.gif" width="80"> Speaking about myself...</h2>
